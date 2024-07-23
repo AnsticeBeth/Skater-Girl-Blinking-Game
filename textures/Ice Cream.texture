@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Ice Cream",
+  "identifier": "texture:3636-74586503-4954-413e-8796-3a9e29f59eec",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "de16137e403a7f2f5e5ca251b5746b3a",
+  "assetLocator": "textures/Ice Cream.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:26504-74586503-4954-413e-8796-3a9e29f59eec",
+    "textureExportConfig:26846-74586503-4954-413e-8796-3a9e29f59eec",
+    "textureExportConfig:27194-74586503-4954-413e-8796-3a9e29f59eec"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "de16137e403a7f2f5e5ca251b5746b3a",
+      "colorCount": 3101,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.776271153541092,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
